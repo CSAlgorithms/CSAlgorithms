@@ -2,7 +2,7 @@ title: CSAlgorithms
 author: Amir Bawab
 permalink: /:categories/:title/
 url: http://csalgorithms.com
-baseurl: /
+relative_url: true
 #email: 
 description: > 
     Computer Science Algorithms
