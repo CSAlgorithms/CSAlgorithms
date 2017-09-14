@@ -1,8 +1,6 @@
 title: CSAlgorithms
 author: Amir Bawab
-permalink: /:categories/:title/
-url: http://csalgorithms.com
-relative_url: true
+baseurl: /
 #email: 
 description: > 
     Computer Science Algorithms
