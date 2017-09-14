@@ -7,6 +7,6 @@
 * Now browse to http://localhost:4000
 
 ## License and credists
-* Template used: https://github.com/pages-themes/midnight
+* Template used: https://github.com/jekyll/minima
     * Read the license file
 

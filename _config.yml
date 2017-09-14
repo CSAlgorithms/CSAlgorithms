@@ -1,5 +1,19 @@
 title: CSAlgorithms
-description: Computer Science Algorithms
-show_downloads: false
-#google_analytics:
-theme: jekyll-theme-midnight
+author: Amir Bawab
+#email: 
+description: > 
+    Computer Science Algorithms
+
+github_username:  amirbawab
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
